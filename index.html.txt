@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
-<title>Властелин колец</title>
+<title>Властелин колец2</title>
 </head> 
 <body>
 <!--Content-->
